@@ -70,16 +70,12 @@ body {
     padding-top: 50px;
     margin-top:20px;
 }
-
 .tales {
     color: white;
     text-align: center;
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
 }
-
-
-
 .selected {
     box-shadow: 0 0 10px 5px rgba(255, 0, 212, 0.5);
 }
@@ -118,7 +114,7 @@ body {
     text-align: center;
 }
 .resetBtn {
-    top: 60%; /* Adjust the position to avoid overlap */
+    top: 70%; /* Adjust the position to avoid overlap */
 }
 .resetBtn:hover{
     cursor:pointer;
